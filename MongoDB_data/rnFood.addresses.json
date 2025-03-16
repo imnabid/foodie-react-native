@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "67d64f0f7e4baba05119b683"
+  },
+  "location": "123 Street, City",
+  "landmark": "Near Mall"
+},
+{
+  "_id": {
+    "$oid": "67d6610ff4657e2944a38bc4"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d66348edcfc1532529aac7"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d66355edcfc1532529aacc"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d664170080220114883d56"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d664200080220114883d5b"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d664200080220114883d60"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d664260080220114883d65"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d6646c0080220114883d6a"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d665020080220114883d6f"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d666cf6f7cd4de7bf9e1a4"
+  },
+  "location": "Htd",
+  "landmark": "",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d693e45fa8bf8480f4ebe4"
+  },
+  "location": "Dhulikhel",
+  "landmark": "",
+  "__v": 0
+}]
