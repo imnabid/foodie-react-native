@@ -15,8 +15,9 @@ Foodie is a **MERN stack** (MongoDB, Express, React Native, Node.js) mobile appl
 
 #Screenshots
 
-
+SignUp page
 ![SignU page](https://github.com/user-attachments/assets/6824d543-eff9-48ad-9a6c-f53e089eeca3)
+
 ![Admin logged in page](https://github.com/user-attachments/assets/4e468e98-e135-4eca-93a9-bb7e4e3698ce)
 ![Add Tag page](https://github.com/user-attachments/assets/f75c6b59-db08-4d69-8505-ce1711a0568e)
 ![Add food page](https://github.com/user-attachments/assets/ad6ea992-748a-4a00-96aa-76eff58d724d)
