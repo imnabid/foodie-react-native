@@ -12,14 +12,22 @@ Foodie is a **MERN stack** (MongoDB, Express, React Native, Node.js) mobile appl
 
 ## Customer Side
 
-<img src="demo/c1.jpg" width="200" height="400" />
-<img src="demo/c2.jpg" width="200" height="400" />
-<img src="demo/c3.jpg" width="200" height="400" />
-<img src="demo/c4.jpg" width="200" height="400" />
-<img src="demo/c5.jpg" width="200" height="400" />
-<img src="demo/c6.jpg" width="200" height="400" />
+<div>
+  <img src="demo/c1.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/c2.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/c3.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/c4.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+</div>
 
 ## Owner Side
+
+<div>
+  <img src="demo/o1.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/o2.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/o3.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/o4.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+</div>
+
 
 <img src="demo/o1.jpg" width="200" height="400" />
 <img src="demo/o2.jpg" width="200" height="400" />
