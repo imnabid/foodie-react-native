@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "67d64e8a7e4baba05119b67b"
+  },
+  "name": "Tomato"
+},
+{
+  "_id": {
+    "$oid": "67d64e8a7e4baba05119b67c"
+  },
+  "name": "Lettuce"
+},
+{
+  "_id": {
+    "$oid": "67d64e8a7e4baba05119b67d"
+  },
+  "name": "Cheese"
+},
+{
+  "_id": {
+    "$oid": "67d64e8a7e4baba05119b67e"
+  },
+  "name": "Peanut"
+}]
