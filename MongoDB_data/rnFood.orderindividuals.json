@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "67d650d57e4baba05119b68f"
+  },
+  "food": "Burger",
+  "quantity": 2,
+  "total": 20
+},
+{
+  "_id": {
+    "$oid": "67d650d57e4baba05119b690"
+  },
+  "food": "Salad",
+  "quantity": 1,
+  "total": 7
+}]
