@@ -28,13 +28,6 @@ Foodie is a **MERN stack** (MongoDB, Express, React Native, Node.js) mobile appl
   <img src="demo/o4.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
 </div>
 
-
-<img src="demo/o1.jpg" width="200" height="400" />
-<img src="demo/o2.jpg" width="200" height="400" />
-<img src="demo/o3.jpg" width="200" height="400" />
-<img src="demo/o4.jpg" width="200" height="400" />
-<img src="demo/o5.jpg" width="200" height="400" />
-
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the Repository**
 ```sh
