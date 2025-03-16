@@ -17,6 +17,8 @@ Foodie is a **MERN stack** (MongoDB, Express, React Native, Node.js) mobile appl
   <img src="demo/c2.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
   <img src="demo/c3.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
   <img src="demo/c4.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/c5.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/c6jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
 </div>
 
 ## Owner Side
@@ -26,6 +28,7 @@ Foodie is a **MERN stack** (MongoDB, Express, React Native, Node.js) mobile appl
   <img src="demo/o2.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
   <img src="demo/o3.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
   <img src="demo/o4.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
+  <img src="demo/o5.jpg" width="200" height="400" style="display: inline-block; margin-right: 10px;" />
 </div>
 
 ## 🚀 Installation & Setup
