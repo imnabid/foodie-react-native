@@ -12,23 +12,20 @@ Foodie is a **MERN stack** (MongoDB, Express, React Native, Node.js) mobile appl
 
 ## Customer Side
 
-<img src="https://github.com/user-attachments/assets/1be2d4d9-5e69-4b00-9fb3-353661bbfdb1" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/a0c06656-f506-42e8-b328-06163cde7f68" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/4d0593f6-14ad-4683-8e7e-1ec269d147fa" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/ce95088e-94b0-48b3-a417-9db51a6aded7" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/2f95a941-4ad7-4779-b171-803afc14ce94" width="200" height="400/>"/>
-<img src="https://github.com/user-attachments/assets/6824d543-eff9-48ad-9a6c-f53e089eeca3" width="200" height="400" />
-
-
-
+<img src="demo/c1.jpg" width="200" height="400" />
+<img src="demo/c2.jpg" width="200" height="400" />
+<img src="demo/c3.jpg" width="200" height="400" />
+<img src="demo/c4.jpg" width="200" height="400" />
+<img src="demo/c5.jpg" width="200" height="400" />
+<img src="demo/c6.jpg" width="200" height="400" />
 
 ## Owner Side
-<img src="https://github.com/user-attachments/assets/5dd6806d-5731-4984-9415-26fd53a1a8e2" width="200" height="400"/>
-<img src="https://github.com/user-attachments/assets/f75c6b59-db08-4d69-8505-ce1711a0568e" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/ad6ea992-748a-4a00-96aa-76eff58d724d" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/6d199fb4-ccce-47e6-9396-3bd1dea8f034" width="200" height="400" />
-<img src="https://github.com/user-attachments/assets/b3e39f26-79bf-46f9-b0c6-2cb52b498d39" width="200" height="400" />
 
+<img src="demo/o1.jpg" width="200" height="400" />
+<img src="demo/o2.jpg" width="200" height="400" />
+<img src="demo/o3.jpg" width="200" height="400" />
+<img src="demo/o4.jpg" width="200" height="400" />
+<img src="demo/o5.jpg" width="200" height="400" />
 
 ## 🚀 Installation & Setup
 ### **1️⃣ Clone the Repository**
